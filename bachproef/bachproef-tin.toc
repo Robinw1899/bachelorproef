@@ -1,0 +1,115 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {dutch}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Inleiding}{15}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Probleemstelling}{15}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{15}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Literatuur studie}{17}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Waarom Machine Learning}{17}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Klantenbinding}{18}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Churn}{20}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Churn prevention}{20}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Segmentatie}{21}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.1}Traditionele segmentatie}{21}{subsection.2.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.2}Geografische segmentatie}{22}{subsection.2.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.3}Gedragssegmentatie}{22}{subsection.2.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.4}Demografische segmentatie}{22}{subsection.2.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5.5}Psychografische segmentatie}{22}{subsection.2.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Nadelen van traditionele segmentatie}{23}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Sub-category-branching}{23}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Lack of Behavioral scope}{23}{subsection.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}Small sample sizes}{24}{subsection.2.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.4}Data lifespan}{24}{subsection.2.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Model gebaseerde segmentatie}{24}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Machine Learning}{26}{section.2.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Classificatie probleem}{26}{section.2.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.10}Models en training}{27}{section.2.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.11}Supervised Learning}{28}{section.2.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.12}Unsupervised Learning}{28}{section.2.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Onderzoeksvragen}{29}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Zijn er andere technologie\IeC {\"e}n die Machine Learning reeds toepassen voor churn of klantenbinding ?}{29}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dataiku}{29}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}IBM Watson Analytics}{30}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Databricks}{31}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Welke frameworks, visuele tools en scripting tools heb ik nodig om zelf zo een oplossing te bouwen?}{32}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Waarom tools gebruiken?}{32}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Platforms versus Libraries}{32}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Machine Learning Tool interfaces}{33}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Local versus Remote Machine Learning Tools}{34}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}Samenvatting}{35}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.4}Conclusie}{35}{subsection.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.5}Tenserflow}{36}{subsection.3.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.6}Deeplearning4j}{36}{subsection.3.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.7}Conclusie}{36}{subsection.3.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Welke Dataset gaan we gebruiken en hoe verkrijg ik deze data?}{36}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Telco-Customer-data set}{36}{subsection.3.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Welk Model dien ik hiervoor op te zetten?}{37}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Kies ik beter scripting tools zoals python?}{37}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Proof of Concept}{39}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}specificaties van mijn systeem}{39}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}installatie van TenserFlow}{39}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Bronnen}{41}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}bronnen}{41}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusie}{43}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{45}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{45}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{45}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{46}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{46}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{46}{section.A.5}
+\contentsfinish 
